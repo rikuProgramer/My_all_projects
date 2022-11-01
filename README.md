@@ -23,8 +23,11 @@
 [DeepLearning_ハンズオンコース](https://github.com/rikuProgramer/Kikagaku_DeepLearningHands-onCourse/tree/f327577eea0a83556cdfee10177bf994bd0becf2)
 
 
-# Flutter
+## Flutter
 
 [ストレス管理アプリ_flutter](https://github.com/rikuProgramer/rick_stressapp_test)
 
 [やりたいことカレンダー_flutter](https://github.com/rikuProgramer/nanisuru_final)
+
+# 履歴書
+[履歴書.docx](https://github.com/rikuProgramer/My_all_projects/files/9908821/default.docx)
