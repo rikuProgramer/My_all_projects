@@ -29,6 +29,3 @@
 
 [やりたいことカレンダー_flutter](https://github.com/rikuProgramer/nanisuru_final)
 
-# 履歴書
-[履歴書.pdf](https://github.com/rikuProgramer/My_all_projects/files/9908825/default.pdf)
-
