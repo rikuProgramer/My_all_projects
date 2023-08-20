@@ -3,7 +3,7 @@
 
 ## 知識アウトプット
 
-[Giita](https://qiita.com/rikuProgramer)
+[Qiita](https://qiita.com/rikuProgramer)
 
 [WordPress](https://tatetoku.wordpress.com/)
 
